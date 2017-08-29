@@ -1,5 +1,7 @@
 # yolk • [TodoMVC](http://todomvc.com)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/knpwrs/yolk-todomvc.svg)](https://greenkeeper.io/)
+
 > A library for building asynchronous user interfaces.
 
 
